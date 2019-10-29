@@ -1,0 +1,110 @@
+PODS:
+  - Action (3.11.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - Alamofire (4.8.2)
+  - AliyunOSSiOS (2.10.7)
+  - APJTextPickerView (0.0.8)
+  - BaiduMapKit (4.3.0)
+  - BMKLocationKit (1.5.0)
+  - CryptoSwift (0.7.2)
+  - Differentiator (3.1.0)
+  - DZNEmptyDataSet (1.8.1)
+  - EmptyDataSet-Swift (4.2.0)
+  - IQKeyboardManager (6.2.1)
+  - JCore (1.2.6)
+  - JPush (3.1.2):
+    - JCore (~> 1.2.6)
+  - KeychainAccess (3.2.0)
+  - Kingfisher (4.10.1)
+  - MJRefresh (3.1.16)
+  - Moya/Core (10.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (10.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - PagingMenuController (2.2.0)
+  - Result (3.2.4)
+  - RxAtomic (4.4.2)
+  - RxCocoa (4.4.2):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.2):
+    - RxAtomic (>= 4.4.2, ~> 4.4)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SnapKit (4.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (3.1.4)
+  - TOCropViewController (2.4.0)
+  - TZImagePickerController (3.2.0)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Action
+  - AliyunOSSiOS
+  - APJTextPickerView
+  - BaiduMapKit
+  - BMKLocationKit
+  - CryptoSwift (~> 0.7.0)
+  - DZNEmptyDataSet
+  - EmptyDataSet-Swift (~> 4.2.0)
+  - IQKeyboardManager
+  - JPush
+  - KeychainAccess
+  - Kingfisher (~> 4.0)
+  - MJRefresh
+  - Moya/RxSwift (~> 10.0)
+  - PagingMenuController
+  - RxDataSources (~> 3.0)
+  - SDCycleScrollView
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD
+  - SwiftyJSON (= 3.1.4)
+  - TOCropViewController
+  - TZImagePickerController
+  - YYText
+
+SPEC CHECKSUMS:
+  Action: 689181e4c3f6566844178d8a7da6fef39a9597fc
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AliyunOSSiOS: 602b6a4e70e62a5f0a6431c20496343141d7e66f
+  APJTextPickerView: 4c6e9addfe05d1cca3fabb06575b1d791590bca1
+  BaiduMapKit: 63575d9236b4112c4ff76391df637f2a6dc1ada8
+  BMKLocationKit: 40d267478acd8704ddebd0e9deaddc727b13df9f
+  CryptoSwift: cd2158be2bf639aabc63ec804707c7137c90157c
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  EmptyDataSet-Swift: 1fa0b35f530a35f852ecb2b53564728b0c300aaf
+  IQKeyboardManager: 964638372b4a61892cc74fdfa6fd26de8c9464a2
+  JCore: cae516dd2bf1a73b578ce6e1065abd49e709e0f7
+  JPush: d0cead70ba223a6a3b52749899ebda830dfbc49a
+  KeychainAccess: 3b1bf8a77eb4c6ea1ce9404c292e48f948954c6b
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJRefresh: 7798e16e53a5ef7f332dd05b27664db4e29530fd
+  Moya: 2b0531a9fef318e0bc484030c3db1e6f279ccb66
+  PagingMenuController: 6176618987bb170096664f2da097313e45ed9c31
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxCocoa: 477990dc3b4c3ff55fb0ac77e1cc06244e0aaec8
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxSwift: 74c29b693c8e42b0f64400e8b06564575742d649
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TOCropViewController: 368d8df3ea43b62c3dc5a61f11b9048274d240bd
+  TZImagePickerController: 7850b158d025065b162a1a963d445040b828abc9
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 73c5a77735df54b18ff609fa963a1121547dd7e8
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+framework module Pods_EEPCShopTests {
+  umbrella header "Pods-EEPCShopTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
